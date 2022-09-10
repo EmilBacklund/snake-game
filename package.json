@@ -1,0 +1,27 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "A snake game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "./node_modules/.bin/jsdoc main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilBacklund/snake-game.git"
+  },
+  "keywords": [
+    "game",
+    "snake"
+  ],
+  "author": "Emil Backlund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilBacklund/snake-game/issues"
+  },
+  "homepage": "https://github.com/EmilBacklund/snake-game#readme",
+  "devDependencies": {
+    "jsdoc": "~3.6.11"
+  }
+}
